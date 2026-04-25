@@ -1,7 +1,5 @@
 # Java-Level2-Task1-codeva
 Employee Management System (Java)
-Employee Management System (Java)
-
 
 This project is a simple Employee Management System developed using Java. It demonstrates the fundamental concepts of Object-Oriented Programming (OOP) along with CRUD operations (Create, Read, Update, Delete).
 
@@ -16,24 +14,18 @@ Update employee details
 Delete employee records
 Save data to a file
 Load data automatically on program startup
+
 Technologies Used
 Java
 Object-Oriented Programming (OOP)
 ArrayList for data storage
 File Handling using text files
-Demo Video
 
-Add your video link here
-
-How to Run
-Compile the project:
-javac *.java
-Run the program:
-java Main
 Project Structure
 Main.java: Handles user interaction and menu
 Employee.java: Defines the Employee class
 EmployeeService.java: Contains business logic and operations
+
 Notes
 The system prevents duplicate employee IDs to maintain data integrity.
 Employee data is stored in a text file (employees.txt) to ensure persistence after restarting the program.
